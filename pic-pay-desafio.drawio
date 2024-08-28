@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5" pages="2">
   <diagram name="Arquitetura" id="7aFiUKOe8pk0JWAehGLI">
-    <mxGraphModel dx="2819" dy="2020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1542" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r0TjBuLhFFmhgkUd6d9b-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="255" width="30" height="60" as="geometry" />
+          <mxGeometry y="255" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r0TjBuLhFFmhgkUd6d9b-5" value="MOCK AUTORIZATION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="-20" width="120" height="60" as="geometry" />
@@ -49,7 +49,7 @@
           <mxGeometry x="280" y="245" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r0TjBuLhFFmhgkUd6d9b-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;value&quot;: 100.0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;payer&quot;: 4,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;payee&quot;: 15&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="10" y="170" width="110" height="100" as="geometry" />
+          <mxGeometry x="60" y="170" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="r0TjBuLhFFmhgkUd6d9b-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="r0TjBuLhFFmhgkUd6d9b-10" target="r0TjBuLhFFmhgkUd6d9b-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -130,7 +130,7 @@
           <mxGeometry x="1065" y="178" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CL8xs94XOcO9aBWeLfW-13" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SUCCESS -&amp;gt; 204&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FAIL -&amp;gt; 504&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;{&quot;status&quot;:&quot;error&quot;,&quot;message&quot;:&quot;The service is not available, try again later&quot;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="130" width="470" height="40" as="geometry" />
+          <mxGeometry x="1080" y="130" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3CL8xs94XOcO9aBWeLfW-17" value="{&quot;message&quot;:&quot;Your user type does not allow this operation&quot;}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="480" width="320" height="30" as="geometry" />
