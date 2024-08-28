@@ -58,3 +58,9 @@ Content-Type: application/json
 ```
 
 Caso ache interessante, faça uma **proposta** de endpoint e apresente para os entrevistadores :heart:
+
+### Arquitetura
+![img_1.png](img_1.png)
+
+### Modelagem banco de dados
+![img.png](img.png)
